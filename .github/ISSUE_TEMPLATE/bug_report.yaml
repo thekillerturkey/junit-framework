@@ -12,14 +12,14 @@ body:
     attributes:
       label: What happened?
       description: Give clear replication steps
-      placeholder: Tell us what you see!
+      placeholder: Tell us what happened!
     validations:
       required: true
   - type: textarea
     id: screenshots
     attributes:
       label: Please attach relevant screenshots
-      placeholder: Tell us what you see!
+      placeholder: Show us what you see!
     validations:
       required: false
   - type: dropdown
