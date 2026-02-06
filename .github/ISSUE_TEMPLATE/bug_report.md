@@ -1,21 +1,38 @@
 ---
-name: Report a bug or regression
+name: Bug report
 about: Create a report to help us improve
-type: Bug
-labels: ["type: bug"]
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
-<!-- Please provide us the version of JUnit you are using and, if possible, a failing unit test with your bug report. Don't forget to describe the rationale for this issue (e.g. expected vs. actual behavior). Please also mention where it's a regression compared to a previous version. -->
+**Describe the bug**
+A clear and concise description of what the bug is.
 
-## Steps to reproduce
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error
 
-<!-- Please insert a code snippet or a link to another repo along with instructions how to reproduce the issue here. The example should be minimal, complete and verifiable (see https://stackoverflow.com/help/mcve). -->
+**Expected behavior**
+A clear and concise description of what you expected to happen.
 
-## Context
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
- - Used versions (Jupiter/Vintage/Platform):
- - Build Tool/IDE:
+**Desktop (please complete the following information):**
+ - OS: [e.g. iOS]
+ - Browser [e.g. chrome, safari]
+ - Version [e.g. 22]
 
-## Deliverables
+**Smartphone (please complete the following information):**
+ - Device: [e.g. iPhone6]
+ - OS: [e.g. iOS8.1]
+ - Browser [e.g. stock browser, safari]
+ - Version [e.g. 22]
 
-- [ ] ...
+**Additional context**
+Add any other context about the problem here.
