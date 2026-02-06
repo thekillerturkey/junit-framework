@@ -20,7 +20,6 @@ body:
     attributes:
       label: Please attach relevant screenshots
       placeholder: Tell us what you see!
-      value: |
     validations:
       required: false
   - type: dropdown
@@ -32,6 +31,4 @@ body:
         - Web
         - Apple
         - Samsung
-      validations:
-        required: true
 
