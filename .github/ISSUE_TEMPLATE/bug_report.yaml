@@ -13,7 +13,6 @@ body:
       label: What happened?
       description: Give clear replication steps
       placeholder: Tell us what you see!
-      value: |
     validations:
       required: true
   - type: textarea
